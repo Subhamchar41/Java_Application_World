@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JAW:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAW_jar</output-path>
+    <root id="archive" name="JAW.jar">
+      <element id="module-output" name="JAW" />
+    </root>
+  </artifact>
+</component>
